@@ -1,0 +1,196 @@
+/* .jl {
+    height: 50px;
+    background-color: rgba(116, 115, 115, 0.514);
+    color: #fff;
+    line-height: 50;
+} */
+/* * {
+    margin: 0;
+    height: 0;
+} */
+ .dage {
+     position: relative; 
+} 
+/* .header {
+    position: relative;
+    left: 0;
+    margin-top: 0;
+    float: left;
+    height: 130px;
+    width: 100px;
+    background-color: #ccc; 
+    line-height: 130px; 
+    text-align: center;
+     
+} */
+/* ----------------------------------------------- */
+/* .jl {
+    background-color: #858585;
+    height: 130px;
+    color: #fff;
+    font-size: 30px;
+    line-height: 130px;
+    margin-bottom: 0;
+}
+.jben {
+    display: block;
+    margin-top: 0;
+    /* float: left; 
+    height: 120px;
+    width: 100px;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 120px;
+    margin-bottom: 0; 
+    
+}
+ .xian{
+    border-bottom: 2px solid black;
+}
+.lx {
+      display: block;  
+      margin-top: 0;
+    /* float: left; 
+    height: 120px;
+    width: 100px;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 120px;
+    margin-bottom: 0;
+}
+.neng {
+    display: block;  
+    margin-top: 0;
+  /* float: left; 
+  height: 120px;
+  width: 100px;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 120px;
+  margin-bottom: 0;
+}
+.jiao {
+    display: block;  
+    margin-top: 0;
+  /* float: left; 
+  height: 120px;
+  width: 100px;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 120px;
+  margin-bottom: 0;
+}
+.xiang {
+    display: block;  
+    margin-top: 0;
+  /* float: left; 
+  height: 120px;
+  width: 100px;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 120px;
+  margin-bottom: 0;
+}
+.name {
+    position: absolute;
+    top: 181px;
+    left: 156px;
+    
+}
+.shouji {
+    position: absolute;
+    top: 302px;
+    left: 156px
+}
+.jishu {
+    position: absolute;
+    top: 413px;
+    left: 156px;
+}
+.yujingli {
+    position: absolute;
+    top: 525px;
+    left: 156px;
+}
+.xjingli {
+    position: absolute;
+    top: 645px;
+    left: 156px;
+} */
+/* ------------------------------------------------- */
+.box {
+    position: relative;
+}
+h1 {
+    color: #fff;
+    display: block;
+    background-color: black;
+    height: 70px;
+    line-height: 70px;
+}
+
+.jben {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background-color: #ccc;
+    height: 150px;
+    width: 130px;
+    line-height: 150px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+.jben1 {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    background-color: #ccc;
+    height: 150px;
+    width: 130px;
+    line-height: 150px;
+    text-align: center;
+    margin-bottom: 1px;
+    border-bottom: 4px solid #fff;
+}
+.jben2 {
+    position: absolute;
+    top: 350px;
+    left: 0;
+    background-color: #ccc;
+    height: 150px;
+    width: 130px;
+    line-height: 150px;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+.jben3 {
+    position: absolute;
+    top: 500px;
+    left: 0;
+    background-color: #ccc;
+    height: 150px;
+    width: 130px;
+    line-height: 150px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+.jben4 {
+    position: absolute;
+    top: 650px;
+    left: 0;
+    background-color: #ccc;
+    height: 150px;
+    width: 130px;
+    line-height: 150px;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+.juli {
+    margin: 90px 0 0 200px;
+    /* border-bottom: 1px solid #000; */
+}
+.xian {
+    border-bottom: 1px solid #000;
+}
